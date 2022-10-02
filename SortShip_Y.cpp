@@ -4,6 +4,9 @@
 #include <conio.h> 
 using namespace std;
 
+/// <summary>
+/// Юрий внес изменинния
+/// </summary>
 
 const int N = 11;
 //const char ship[] = { '####','####','####','####' };
